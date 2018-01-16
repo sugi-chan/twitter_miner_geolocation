@@ -17,10 +17,10 @@ import sys
 from time import sleep
 
 #Variables that contains the user credentials to access Twitter API
-access_token = "836555563-c7sobiPA90KCs79QC9mMMPb7PUHJAGM9PvUvJt2o"
-access_token_secret = "ZOME6MRuQtHyDB1Gsoa2rjX4LfYwXrbDvkuU3eNy4Dq6v"
-consumer_key = "G6v5wJTWlTVI29ywnzgjUXk92"
-consumer_secret = "Vs3NCBnMQj2jkpOyl1WgvEJIqLU1hlGHgbICiocw81ZmDyvrWK"
+access_token = "XXXXXXXXXXXXXXXXXXXX"
+access_token_secret = "XXXXXXXX"
+consumer_key = "XXXXXXXXXXXXX"
+consumer_secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 
 #This is a basic listener that just prints received tweets to stdout.
